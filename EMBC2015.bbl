@@ -1,0 +1,181 @@
+\begin{thebibliography}{10}
+
+\bibitem{jasper1949}
+Herbert Jasper and Wilder Penfield,
+\newblock ``Electrocorticograms in man: Effect of voluntary movement upon the
+  electrical activity of the precentral gyrus,''
+\newblock {\em Archiv f√ºr Psychiatrie und Nervenkrankheiten}, vol. 183, no.
+  1-2, pp. 163--174, 1949.
+
+\bibitem{Womelsdorf2014}
+Thilo Womelsdorf, Taufik~a Valiante, Ned~T Sahin, Kai~J Miller, and Paul
+  Tiesinga,
+\newblock ``{Dynamic circuit motifs underlying rhythmic gain control, gating
+  and integration.},''
+\newblock {\em Nature neuroscience}, vol. 17, no. 8, pp. 1031--9, Aug. 2014.
+
+\bibitem{neuper2001}
+C~Neuper and G~Pfurtscheller,
+\newblock ``Event-related dynamics of cortical rhythms: frequency-specific
+  features and functional correlates,''
+\newblock {\em International Journal of Psychophysiology}, vol. 43, no. 1, pp.
+  41 -- 58, 2001,
+\newblock Thalamo-Cortical Relationships.
+
+\bibitem{Jurkiewicz20061281}
+Michael~T. Jurkiewicz, William~C. Gaetz, Andreea~C. Bostan, and Douglas Cheyne,
+\newblock ``Post-movement beta rebound is generated in motor cortex: Evidence
+  from neuromagnetic recordings,''
+\newblock {\em NeuroImage}, vol. 32, no. 3, pp. 1281 -- 1289, 2006.
+
+\bibitem{jake2011}
+A~Reimer, P~Hubka, A~K Engel, and A~Kral,
+\newblock ``{Fast propagating waves within the rodent auditory cortex},''
+\newblock {\em Cereb Cortex}, vol. 21, pp. 166--177, 2011.
+
+\bibitem{doug2006betawave}
+Doug Rubino, K~A Robbins, and Nicholas~G Hatsopoulos,
+\newblock ``{Propagating waves mediate information transfer in the motor
+  cortex.},''
+\newblock {\em Nature Neuroscience.}, vol. 9, no. 12, pp. 1549--1557, Dec.
+  2006.
+
+\bibitem{Teismann2009}
+Inga~K Teismann, Rainer Dziewas, Olaf Steinstraeter, and Christo Pantev,
+\newblock ``{Time-dependent hemispheric shift of the cortical control of
+  volitional swallowing},''
+\newblock {\em Human brain mapping}, vol. 30, no. 1, pp. 92--100, 2009.
+
+\bibitem{Takahashi2012a}
+Kazutaka Takahashi, Lorenzo Pesce, Jose Iriarte-Diaz, Matt Best, Sanggyun Kim,
+  Todd~P. Coleman, Nicholas~G. Hatsopoulos, and Callum~F. Ross,
+\newblock ``{Granger causality analysis of state dependent functional
+  connectivity of neurons in orofacial motor cortex during chewing and
+  swallowing},''
+\newblock in {\em The 6th International Conference on Soft Computing and
+  Intelligent Systems, and The 13th International Symposium on Advanced
+  Intelligence Systems}. Nov. 2012, pp. 1067--1071, Ieee.
+
+\bibitem{andrzejak2001indications}
+Ralph~G Andrzejak, Klaus Lehnertz, Florian Mormann, Christoph Rieke, Peter
+  David, and Christian~E Elger,
+\newblock ``Indications of nonlinear deterministic and finite-dimensional
+  structures in time series of brain electrical activity: Dependence on
+  recording region and brain state,''
+\newblock {\em Physical Review E}, vol. 64, no. 6, pp. 061907, 2001.
+
+\bibitem{subramaniyam2014characterization}
+Narayan~Puthanmadam Subramaniyam and Jari Hyttinen,
+\newblock ``Characterization of dynamical systems under noise using recurrence
+  networks: Application to simulated and \{EEG\} data,''
+\newblock {\em Physics Letters A}, vol. 378, no. 46, pp. 3464 -- 3474, 2014.
+
+\bibitem{subramaniyam2013analysis}
+Narayan~Puthanmadam Subramaniyam and Jari Hyttinen,
+\newblock ``Analysis of nonlinear dynamics of healthy and epileptic eeg signals
+  using recurrence based complex network approach,''
+\newblock in {\em Neural Engineering (NER), 2013 6th International IEEE/EMBS
+  Conference on}. IEEE, 2013, pp. 605--608.
+
+\bibitem{boccaletti2006complex}
+Stefano Boccaletti, Vito Latora, Yamir Moreno, Martin Chavez, and D-U Hwang,
+\newblock ``Complex networks: Structure and dynamics,''
+\newblock {\em Physics reports}, vol. 424, no. 4, pp. 175--308, 2006.
+
+\bibitem{barrat2000properties}
+Alain Barrat and Martin Weigt,
+\newblock ``On the properties of small-world network models,''
+\newblock {\em The European Physical Journal B-Condensed Matter and Complex
+  Systems}, vol. 13, no. 3, pp. 547--560, 2000.
+
+\bibitem{donner2010recurrence}
+Reik~V Donner, Yong Zou, Jonathan~F Donges, Norbert Marwan, and J{\"u}rgen
+  Kurths,
+\newblock ``Recurrence networks—a novel paradigm for nonlinear time series
+  analysis,''
+\newblock {\em New Journal of Physics}, vol. 12, no. 3, pp. 033025, 2010.
+
+\bibitem{Callum2010a}
+C.~F. Ross, A.~L. Baden, J.~Georgi, A.~Herrel, K.~A. Metzger, D.~A. Reed,
+  V.~Schaerlaeken, and M.~S. Wolff,
+\newblock ``Chewing variation in lepidosaurs and primates,''
+\newblock {\em The Journal of Experimental Biology}, vol. 213, no. 4, pp.
+  572--584, 2010.
+
+\bibitem{Reed2011}
+D.~A. Reed and C.~F. Ross,
+\newblock ``The influence of food material properties on jaw kinematics in the
+  primate, cebus,''
+\newblock {\em Arch Oral Biol.}, vol. 55, no. 12, pp. 946 -- 962, 2010.
+
+\bibitem{pepe2011}
+J.~Iriarte-D\'{i}az, D.~A. Reed, and C.~F. Ross,
+\newblock ``Sources of variance in temporal and spatial aspects of jaw
+  kinematics in two species of primates feeding on foods of different
+  properties,''
+\newblock {\em Integr Comp Biol.}, vol. 51, no. 2, pp. 307--319, 2011.
+
+\bibitem{Thexton1980}
+A.~J. Thexton, K.~M. Hiiemae, and A.~W. Crompton,
+\newblock ``Food consistency and bite size as regulators of jaw movement during
+  feeding in the cat,''
+\newblock {\em J Neurophysiol.}, vol. 44, no. 3, pp. 456--474, 1980.
+
+\bibitem{marwan2007recurrence}
+Norbert Marwan, M~Carmen Romano, Marco Thiel, and J{\"u}rgen Kurths,
+\newblock ``Recurrence plots for the analysis of complex systems,''
+\newblock {\em Physics Reports}, vol. 438, no. 5, pp. 237--329, 2007.
+
+\bibitem{kantz2004nonlinear}
+Holger Kantz and Thomas Schreiber,
+\newblock {\em Nonlinear time series analysis}, vol.~7,
+\newblock Cambridge university press, 2004.
+
+\bibitem{marwan2009complex}
+Norbert Marwan, Jonathan~F Donges, Yong Zou, Reik~V Donner, and J{\"u}rgen
+  Kurths,
+\newblock ``Complex network approach for recurrence analysis of time series,''
+\newblock {\em Physics Letters A}, vol. 373, no. 46, pp. 4246--4254, 2009.
+
+\bibitem{donner2015complex}
+Reik~V Donner, Jonathan~F Donges, Yong Zou, and Jan~H Feldhoff,
+\newblock ``Complex network analysis of recurrences,''
+\newblock in {\em Recurrence Quantification Analysis}, pp. 101--163. Springer,
+  2015.
+
+\bibitem{donner2011geometry}
+Reik~V Donner, Jobst Heitzig, Jonathan~F Donges, Yong Zou, Norbert Marwan, and
+  J{\"u}rgen Kurths,
+\newblock ``The geometry of chaotic dynamics—a complex network perspective,''
+\newblock {\em The European Physical Journal B-Condensed Matter and Complex
+  Systems}, vol. 84, no. 4, pp. 653--672, 2011.
+
+\bibitem{donner2011recurrence}
+REIK V~RV Donner, MICHAEL Small, JF~JONATHAN~F DONGES, NORBERT MARWAN, YONG
+  ZOU, RUOXI XIANG, and J\"{U}RGEN KURTHS,
+\newblock ``{RECURRENCE-BASED TIME SERIES ANALYSIS BY MEANS OF COMPLEX NETWORK
+  METHODS},''
+\newblock {\em International Journal of Bifurcation and Chaos}, vol. 21, no.
+  04, pp. 1019--1046, 2011.
+
+\bibitem{lange2015recurrence}
+Holger Lange and Sven Boese,
+\newblock ``Recurrence quantification and recurrence network analysis of global
+  photosynthetic activity,''
+\newblock in {\em Recurrence Quantification Analysis}, pp. 349--374. Springer,
+  2015.
+
+\bibitem{Mitra2008}
+Partha Mitra and Hermant Bokil,
+\newblock {\em {Observed Brain Dynamics}},
+\newblock Oxford University Press, New York, 2008.
+
+\bibitem{Hatanaka2005}
+Nobuhiko Hatanaka, Hironobu Tokuno, Atsushi Nambu, Tomio Inoue, and Masahiko
+  Takada,
+\newblock ``{Input-output organization of jaw movement-related areas in monkey
+  frontal cortex},''
+\newblock {\em Journal of Comparative Neurology}, vol. 492, no. 4, pp.
+  401--425, 2005.
+
+\end{thebibliography}
